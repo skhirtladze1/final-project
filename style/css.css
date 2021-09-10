@@ -1,0 +1,348 @@
+body{
+	width: 1593px;
+}
+header{
+	height: 830px;
+}
+.meniu{
+	display: flex;
+} 
+.logo{
+	font-family: poppins;
+	font-weight: bold;
+	font-size: 29px;
+	margin-left: 222px;
+	margin-top: 23px;
+	margin-right: 167px;
+}
+.home{
+	font-family: poppins;
+	font-weight: regular;
+	font-size: 18px;
+	margin-top: 30px;
+	margin-right: 289px;
+}
+.search{
+    font-size: 18px;
+    margin-right: 130px;
+    margin-top: 31px;
+}
+#background{
+	margin-top: 22px;
+}
+.text{
+	top :83%;
+	left: 77%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	
+}
+.new{
+	color: black;
+	font-family: poppins;
+	font-size: 18px;
+	margin-bottom: 26px;
+}
+.collusion{
+	font-family: poppins;
+	font-size: 80px;
+	font-weight: bold;
+	margin-bottom: 22px;
+}
+.exclusive{
+	font-family: poppins;
+	font-size: 18px;
+
+}
+.black{
+	margin-top: 31px;
+	margin-right: 37px;
+}
+.pirveli-div{
+	display: flex;
+	margin-top: 120px;
+	margin-bottom: 114px;
+}
+.pirveli{
+	width: 559px;
+	height: 291px;
+	
+	margin-left: 221px;
+	margin-bottom: 22px;
+	margin-right: 32px;
+}
+.pirveli-flex{
+	display: flex;
+}
+.mesame{
+	width: 266px;
+	height: 269px;
+	margin-left: 221px;
+	margin-right: 28px;
+}
+.meotxe{
+    width: 265px;
+    height: 269;
+    margin-right: 32px;
+}
+.meore{
+	width: 559px;
+	height: 581px;
+	margin-right: 221px;
+}
+.warwera{
+	left: 15%;
+	top: -7%;
+	transform: translate(-50%, -50%);
+	position: relative;
+	
+}
+.women{
+	font-family: poppins;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 703px;
+	margin-bottom: 6px;
+
+}
+.shop{
+	font-family: poppins;
+	font-weight: lighter;
+	font-size: 15px;
+	margin-left: 627px;
+	margin-bottom: 55px;
+}
+.full{
+	display: flex;
+	margin-left: 222px;
+	margin-bottom: 108px;
+	margin-right: 222px;
+}
+.fasi{
+	margin-right: 25px;
+}
+.iguera{
+	font-family: poppins;
+	font-weight: lighter;
+	margin-top: 25px;
+	margin-bottom: 16px;
+}
+.green{
+	font-family: poppins;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+.avone{
+	font-family: poppins;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 732px;
+	margin-right: 713px;
+	margin-top: 107px;
+	line-height: 30px;
+}
+.color{
+	font-family: poppins;
+	font-weight: lighter;
+	font-size: 15px;
+	margin-right: 671px;
+	margin-left: 690px;
+}
+.blue{
+	widows: 514px;
+	height: 451px;
+	margin-left: 25px;
+	margin-top: 55px;
+}
+.kepi{
+	width: 227px;
+	height: 281px;
+	left: 80%;
+    top: 10%;
+    position: relative;
+    transform: translate(-50%, -50%);
+	margin-left: 3px;
+	border-style: solid;
+	border-color: white;
+	border-width: 19px 17px 13px 15px;
+}
+.witeli{
+	width: 558px;
+	height: 602px;
+	margin-top: 119px;
+}
+.sami{
+	display: flex;
+	margin-right: 217px;
+	margin-left: 227px;
+}
+.xaziani{
+	width: 162px;
+	height: 21px;
+	top: -19%;
+	left: -3%;
+	position: relative;
+    transform: translate(-50%, -50%);
+}
+}
+.meore-background{
+	height: 745px;
+	width: 1593;
+}
+.own{
+	list-style: none;
+	position: relative;
+	transform: translate(-50%, -50%);
+	top: 80%;
+	left: 25%;
+	height: 226px;
+	width: 440px;
+}
+.day{
+	font-family: poppins;
+	font-size: 18px;
+	padding-bottom: 20px;
+}
+.tachen{
+	font-family: poppins;
+	font-size: 80px;
+	font-weight: bold;
+	padding-bottom: 20px;
+
+}
+.shop-collection{
+	font-size: 18px;
+	font-family: poppins;
+}
+.group{
+	margin-top: 26px;
+}
+footer{
+	background-color: rgb(242, 248, 252);
+}
+.serch-div{
+	margin-top: 113px;
+	display: flex;
+	margin-left: 223px;
+}
+.your-logo{
+	margin-right: 140px;
+	width: 401px;
+}
+#your{
+	font-family: poppins;
+	font-size: 22px;
+	font-weight: bold;
+	margin-bottom: 17px;
+}
+#earned{
+	font-family: poppins;
+	font-size: 15px;
+}
+#email{
+	font-family: poppins;
+	font-size: 22px;
+	font-weight: bold;
+}
+.join[input=fname]{
+    position: relative;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.join [type=text]{
+	border-color: white;
+	border-style: none;
+	width: 481.5px;
+	height: 42px;
+    padding: 0 22px;
+}
+.button{
+	font-family: poppins;
+    font-weight: bold;
+    background-color: white;
+    border-style: none;
+    border-color: white;
+    position: absolute;
+    height: 42px;
+    padding: 0 22.5px;
+}
+#email{
+	margin-bottom: 19px;
+}
+.otxi{
+	margin-top: 74px;
+	margin-right: 208px;
+	margin-left: 222px;
+	display: flex;
+}
+.location{
+	margin-right: 306px;
+}
+.bangladesh{
+	margin-bottom: 25px;
+	font-family: poppins;
+}
+.gmail{
+	margin-bottom: 22px;
+}
+.facebook{
+	font-size: 10px;
+}
+.help{
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+.faq{
+    font-family: poppins;
+    font-size: 15px;
+    margin-bottom: 16px;
+}
+.collections{
+	font-family: poppins;
+	font-size: 15px;
+	margin-bottom: 13px;
+}
+.outlet{
+	font-family: poppins;
+	font-size: 15px;
+	margin-bottom: 12px;
+}
+.lookbook{
+	font-family: poppins;
+	font-size: 15px;
+}
+.erti{
+	width: 84px;
+	height: 181px;
+}
+.ori{
+
+	margin-left: 129px;
+	height: 156px;
+	width: 181px;
+}
+.store{
+	margin-left: 129px;
+	width: 106px;
+	height: 181px;
+}
+.copyright{
+	size: 20px;
+	margin-top: 139px;
+	padding-top: 41px;
+	padding-left: 496px;
+}
+.muqi{
+	background-color: rgb(231, 245, 248);
+	height: 82px;
+	width: 1595px;
+}
+.store-location{
+	font-family: poppins;
+	font-size: 15px;
+	width: 126px;
+}
